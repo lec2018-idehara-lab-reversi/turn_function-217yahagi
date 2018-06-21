@@ -224,7 +224,13 @@ void gameset(){
 class AI{
 
   void checkput(){
-   // canput(teban,);
+   for(int i=0;i<=2;i++){
+     
+     ALLcantput(teban);
+     for (int h=1;h<=canp.length;h++){
+      
+     }
+   }
     
   }
   
